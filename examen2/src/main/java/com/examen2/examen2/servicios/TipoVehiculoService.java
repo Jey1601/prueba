@@ -1,0 +1,8 @@
+package com.examen2.examen2.servicios;
+
+import com.examen2.examen2.modelos.TipoVehiculo;
+
+public interface TipoVehiculoService {
+
+    public TipoVehiculo crearTipoVehiculo(TipoVehiculo tipoVehiculo);
+} 
